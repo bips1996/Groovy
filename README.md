@@ -1,16 +1,21 @@
+# Groovy
 A video streaming application hosted on local server like XAMPP,LAMPP
-Feature :
-ADMIN-
+## Feature :
+### ADMIN-
+'''
   login/Signup
   Upload/Delete/Rearrange videos
   Watch shows uploaded by other admins
-USER-
+ '''
+### USER -
+'''
   login/register
   Watch videos
   Rate videos
-Technology Used :
+'''
+## Technology Used :
   HTML,CSS,JavaScript,PHP,MySQL
-How to use : 
+## How to use : 
   install a local server
   Move all these files to a a parent directory inside "xampp\htdocs\"
   start the local server
